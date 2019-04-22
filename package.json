@@ -1,0 +1,20 @@
+{
+    "name": "@saransh184/spriter",
+    "version": "0.2.0",
+    "author": {
+        "name": "Saransh Gupta",
+        "email": "saranshgupta1995@gmail.com"
+    },
+    "description": "A minimalistic package to work with sprite sheets and animations",
+    "keywords": [
+        "sprites",
+        "spritesheets",
+        "animations",
+        "load",
+        "javascript"
+    ],
+    "license": "MIT",
+    "repository": {
+        "url": "https://github.com/saranshgupta1995/Spriter"
+    }
+}
